@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="pjname">gangsimul</string>
+    <string name="ganghwa">등반시뮬</string>
+    <string name="cubejil">딸깍시뮬</string>
+    <string name="from">현재</string>
+    <string name="to">목표</string>
+    <string name="level">렙제</string>
+    <string name="pabang">파방</string>
+    <string name="starcatch">스타캐치</string>
+    <string name="eventtext">이벤트</string>
+    <string name="from_edit_text">어디서부터</string>
+    <string name="to_edit_text">어디까지 가고싶은가</string>
+    <string name="level_edit_text">아이템의 레벨</string>
+    <string name="text_calcul">계산</string>
+    <string name="star15">15성</string>
+    <string name="star16">16성</string>
+    <string name="do_star">꼬박꼬박 할거임</string>
+    <string name="doGanghwaTime">평균</string>
+    <string name="doBoomTime">펑</string>
+    <string name="doUseMeso">돈</string>
+    <string name="textDirection">→</string>
+    <string name="textExpected">기댓값 (100000회 시행)</string>
+    <string name="mpd">MPD</string>
+    <string-array name="level_spinner_array">
+        <item>130</item>
+        <item>135</item>
+        <item>140</item>
+        <item>150</item>
+        <item>160</item>
+        <item>200</item>
+        <item>250</item>
+    </string-array>
+    <string-array name="event_spinner_array">
+        <item>없음</item>
+        <item>15,16 100퍼</item>
+        <item>30% 할인</item>
+        <item>샤타포스</item>
+    </string-array>
+</resources>
